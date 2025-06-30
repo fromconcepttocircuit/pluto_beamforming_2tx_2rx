@@ -1,0 +1,1 @@
+Ever wondered how phased arrays pinpoint a signal's direction? In this tutorial, we make it happen! Learn the fundamentals of beamforming and calculate Angle of Arrival (AoA) in real-time using two ADALM-Pluto SDRs and a powerful Python script.
