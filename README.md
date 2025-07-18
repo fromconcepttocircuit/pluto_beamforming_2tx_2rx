@@ -4,7 +4,3 @@ Ever wondered how phased arrays pinpoint a signal's direction? In this tutorial,
 
 🎬 **Watch the full video demo and tutorial on YouTube**:  
 [![Watch the video](https://img.youtube.com/vi/RbCKBkX0d7U/0.jpg)](https://www.youtube.com/watch?v=RbCKBkX0d7U)
-
-### ☕ Support My Work  
-If you find this project helpful, consider supporting me:  
-[Buy Me a Coffee](https://buymeacoffee.com/concepttoco)
